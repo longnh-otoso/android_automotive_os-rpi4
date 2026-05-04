@@ -1,10 +1,14 @@
 # Android Automotive (AAOS 15) on Raspberry Pi 4
 
-🎥 Watch the setup video: https://youtu.be/8PzioE3GsRo
+
 
 This repository contains instructions and scripts for building and installing Android Automotive on a Raspberry Pi 4.
 
-![Android Automotive Setup](./images/12.png)
+>🎥 Watch the setup video: https://youtu.be/8PzioE3GsRo
+
+![RPi4 AAOSoke](./images/RPi4%20AAOSoke.jpeg)
+
+
 
 ## Prerequisites
 
@@ -132,10 +136,7 @@ Before we do this, we need the following environment:
 1. **Insert the SD card into your Raspberry Pi 4 and power it on.**
 2. **The Raspberry Pi should boot into Android Automotive.**
 
-![RPi4 AAOSoke](./images/RPi4%20AAOSoke.jpeg)
-
-> 🎥 I also made a YouTube video guide for this process:
-> https://youtu.be/8PzioE3GsRo
+![Android Automotive Setup](./images/12.png)
 
 ## References
 
